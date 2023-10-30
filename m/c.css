@@ -1,0 +1,92 @@
+.z{	
+ display: flex;	
+}
+
+.a{
+	background-color: darkgreen;
+	width: 15%;
+	height: 20vh;
+}
+.a img{
+	width: 35%.;
+	height: 65%;
+	margin-left: 25%;
+	margin-top: 17%;
+}
+
+
+.b{    
+    color: green;
+	width: 85%;
+	height: 20vh;
+	background-color: darkgreen;
+}
+.b input{
+	background:#ffffff
+	color:darkgreen;
+	margin-left:80%;
+	margin-top:2%; 
+	height:12%;
+	width:15%;
+}
+
+.c{     
+	justify-content:center;
+	width: 100%;
+	height: 25vh;
+	display:flex;
+	background-color: whitesmoke;
+}
+
+.c img{
+	width:40%;
+	height: 90%;
+    
+     
+	margin-top: 0.3%;
+}
+.d{
+	width: 70%;
+	height: 60vh;
+	background-color: white;
+}
+.d img{
+	margin-left: 1%;
+	margin-top: 0.5%;
+	display: flex;
+	width: 80%;
+	height: 80%;
+}
+.d a{
+    text-decoration: none;
+    font-size: 3vh;
+}
+.d h2{
+	font-size: 2vh;
+	margin-left: 2%;
+	margin-top: 0%;
+}
+.d1 h2{
+	margin-top: -1%;
+}
+
+.e{     
+	width: 35%;
+	height: 80%;
+	background-color: white;
+}
+.e img{
+	display: flex;
+	width:90%;
+	height: 15vh;
+	margin-left: -20%;
+}
+.e1,.e2,.e3{
+	margin-top: 1%;
+	margin-left: 1%;
+}
+.f{
+	width: 100%;
+	height: 20vh;
+	background-color: darkgreen;
+}
